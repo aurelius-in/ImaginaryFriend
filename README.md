@@ -1,4 +1,4 @@
-# ImaginaryFriend# Project Proposal: Imaginary Friend App
+# ImaginaryFriend App
 
 ## Introduction
 The Imaginary Friend App is a unique mobile app that provides users with an imaginary friend. The app sends random or preprogrammed messages to the user's phone to create the illusion that they have a thoughtful friend, jealous lover, or successful business associate. This app is designed to help users break the ice, increase their sense of value, or get out of unwanted social situations. Additionally, the app has a special feature where the friend impersonator does perfect celebrity voice impersonations for voicemails.
